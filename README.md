@@ -17,5 +17,9 @@ Further away the reference frame, less robust is our optical flow vectors
 ![image](https://github.com/pvdsan/Assignment3/assets/22724124/57fdab5e-37af-43f8-a9a1-03376570fdb2)
 
 
+## Q5 Feature Based Detection Using SURF features Refer Q5_Feature_Based_Detection.m for the same
+Using an roi.jpg , we will match the roi with randomly selected frames simialr to Q1
+![image](https://github.com/pvdsan/Assignment3/assets/22724124/fcbdde3e-c8f9-4f30-be04-c49d15c9c45f)
 
+## Q8 Marker Based and Object Based Tracking See Videos uploaded in classroom for demo. Refer Q8_Object_Based_Only.py and Q8_Marker_Based.py for code
 
